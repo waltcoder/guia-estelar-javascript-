@@ -1,0 +1,4 @@
+// Arrow function
+const sayMyName = () =>  {
+
+}
